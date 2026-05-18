@@ -14,7 +14,7 @@ _A kitchen timer prototype_
 - [Resources](#Resources)
 
 ### Motivation
-- [Idea generator](https://github.com/tamberg/idea) software by @tamberg
+- [Idea generator](https://github.com/tamberg/idea) software, by @tamberg
 
 ### Basics
 - Constraints
