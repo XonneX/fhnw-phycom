@@ -22,7 +22,6 @@ _A microcontroller with sensors & actuators_
 - Blinking an LED
 - Printing "hello"
 - Reading a button
-- Moving a motor
 - Making a dial
 
 ### Advanced
