@@ -20,9 +20,11 @@ _A custom CO2 sensor breakout board_
 - [#MakeZurich Badge 2023](http://www.tamberg.org/makezurich/2023/MakeZurichBadge2023.pdf) slides, by @tamberg
 
 ### Basics
+- Create a layout
 ...
 
 ### Advanced
+- Add a footprint
 ...
 
 ### Materials
@@ -35,7 +37,7 @@ _A custom CO2 sensor breakout board_
 - ...
 
 ### Skills
-- [ ] Layout a circuit by hand
+- [ ] Lay out a circuit by hand
 - [ ] Change a circuit in KiCad
 - [ ] Know how to order a PCB
 - [ ] ...
