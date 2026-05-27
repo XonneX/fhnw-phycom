@@ -29,7 +29,7 @@ Also available as [slides.pdf](slides.pdf) and [.txt](slides.txt)
 
 ### Credits
 - 3 ECTS, 2 * 5 days, 8 + 1 hours a day.
-- 2 joker hours, ask in advance.
+- 3 joker hours, ask in advance.
 - Pass/fail, no grades.
 
 ### Date
