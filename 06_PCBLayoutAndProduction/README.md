@@ -21,11 +21,11 @@ _A custom CO2 sensor breakout board_
 
 ### Basics
 - Create a layout
-...
+- ...
 
 ### Advanced
 - Add a footprint
-...
+- ...
 
 ### Materials
 - Paper
