@@ -25,9 +25,12 @@ _A custom CO2 sensor breakout board_
 ...
 
 ### Materials
+- Paper
+- Tape
 ...
 
 ### Tools
+- Scissors
 ...
 
 ### Skills
