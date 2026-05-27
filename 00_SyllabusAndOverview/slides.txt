@@ -18,9 +18,9 @@
   - Language      - Specials
   - Credits       - Topics
   - Date          - Structure
-  - Time          - Audience
-  - Location      - Contact
-  - Presence
+  - Time          - Materials
+  - Location      - Audience
+  - Presence      - Contact
 
 +
 
@@ -43,9 +43,9 @@
 
   # Credits
 
-  - 3 ECTS
-  - Pass/fail
-  - No grades
+  - 3 ECTS, 2 * 5 days, 8 + 1 hours a day
+  - 2 joker hours, ask in advance
+  - Pass/fail, no grades
 
 +
 
@@ -114,7 +114,7 @@
   > At HTU, all participants are welcome
 
   - Week 1, Mon, 07:45, welcome coffee
-  - Week 1, Fri, 12:00, open lunch (BYO)
+  - Week 1, Fri, 12:00, free open lunch
   - Week 2, Fri, 16 - 18:00, grill party
 
 +
@@ -144,6 +144,17 @@
   - Tools, which tools you can use to get experience
   - Skills, what you can learn by doing it yourself
   - Resources, where you find more, quality info
+
++
+
+  # Materials
+
+  - Template repo, as a starting point
+  - Box of tools per team, to be returned
+  - Making materials, to be used responsibly
+
+
+  * https://github.com/tamberg/fhnw-phycom
 
 +
 
