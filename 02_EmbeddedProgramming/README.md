@@ -29,7 +29,7 @@ _A microcontroller with sensors & actuators_
 - Building a light switch
 - Building a kitchen timer
 - Reading a sensor via I2C
-- Reading an SD card via SPI
+- Using an SD card via SPI
 - Using a GPS module via UART
 
 ### Materials
