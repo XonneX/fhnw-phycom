@@ -27,14 +27,17 @@ _A custom CO2 sensor breakout board_
 ### Materials
 - Paper
 - Tape
-...
+- ...
 
 ### Tools
 - Scissors
-...
+- ...
 
 ### Skills
-- [ ] Skill
+- [ ] Layout a circuit by hand
+- [ ] Change a circuit in KiCad
+- [ ] Know how to order a PCB
+- [ ] ...
 
 ### Resources
 - ...
