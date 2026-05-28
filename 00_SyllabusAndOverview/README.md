@@ -56,18 +56,18 @@ Also available as [slides.pdf](slides.pdf) and [.txt](slides.txt)
 - We count on you all to share your experience/perspective.
 
 ### Absence
-- Max 3 "joker" hours
-- Have a good reason
-- Ask us in advance
-- Get confirmation
-- Make up for it
+- Max 3 "joker" hours.
+- Have a good reason.
+- Ask us in advance.
+- Get confirmation.
+- Make up for it.
 
 ### Conduct
-> Be excellent to each other
+> Be excellent to each other.
 
-- Actively participate
-- Ask for / provide help
-- Respect boundaries
+- Actively participate.
+- Ask for / give help.
+- Respect boundaries.
 
 ### Program
 #### Week 1
