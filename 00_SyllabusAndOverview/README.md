@@ -66,7 +66,7 @@ Also available as [.pdf](Phycom00SyllabusAndOverview.pdf) and [.txt](Phycom00Syl
 > Be excellent to each other.
 
 - Actively participate.
-- Ask for / give help.
+- Ask for / offer help.
 - Respect boundaries.
 
 ### Program
