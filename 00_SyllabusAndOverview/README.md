@@ -11,6 +11,8 @@ Also available as [slides.pdf](slides.pdf) and [.txt](slides.txt)
 - [Time](#time)
 - [Location](#location)
 - [Presence](#presence)
+- [Absence](#absence)
+- [Conduct](#conduct)
 - [Program](#program)
 - [Specials](#specials)
 - [Topics](#topics)
@@ -51,6 +53,20 @@ Also available as [slides.pdf](slides.pdf) and [.txt](slides.txt)
 - The course consists of inputs and hands-on making sessions.
 - We will use specific tools available in a typical makerspace.
 - We count on you all to share your experience/perspective.
+
+### Absence
+- Max 3 "joker" hours
+- Have a good reason
+- Ask us in advance
+- Get confirmation
+- Make up for it
+
+### Conduct
+> Be excellent to each other
+
+- Actively participate
+- Ask for / give help
+- Respect boundaries
 
 ### Program
 #### Week 1
