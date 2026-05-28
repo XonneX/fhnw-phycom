@@ -66,7 +66,7 @@ Also available as [slides.pdf](slides.pdf) and [.txt](slides.txt)
 > Be excellent to each other
 
 - Actively participate
-- Ask for / give help
+- Ask for / provide help
 - Respect boundaries
 
 ### Program
