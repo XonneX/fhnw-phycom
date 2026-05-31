@@ -12,7 +12,7 @@
 
 ### Motivation
 - DIY game controller, e.g. [DIY 3D tilt sensor](https://www.instructables.com/DIY-3D-Tilt-Sensor/) by @tamberg
-- DIY USB HID device, e.g. [DIY space mouse](https://www.youtube.com/watch?v=62xlzGs8LXA) by Salim 
+- DIY USB HID device, e.g. [DIY space mouse](https://www.youtube.com/watch?v=62xlzGs8LXA) by Salim Benbouziyane
 
 ### Basics
 - Teams of 3 (?)
