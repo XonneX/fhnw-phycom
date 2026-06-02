@@ -40,7 +40,7 @@ _A custom CO2 sensor breakout board_
 ### Skills
 - [ ] Lay out a circuit by hand
 - [ ] Edit a circuit in KiCad
-- [ ] Know how to order a PCB
+- [ ] Order a PCB online
 - [ ] ...
 
 ### Resources
