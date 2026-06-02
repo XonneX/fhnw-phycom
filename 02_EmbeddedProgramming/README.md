@@ -33,7 +33,6 @@ _A microcontroller with sensors & actuators_
 
 ### Materials
 - Microcontroller, e.g. [Feather M4 Express](../../../wiki/Feather-M4-Express)
-- Your computer (Win/Mac/Linux)
 - USB C to micro cable
 - Sensors, e.g. a button or [one of these](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main/Hardware/Sensors)
 - Actuators, e.g. an LED or [one of these](https://github.com/fhnw-imvs/fhnw-iot-library/tree/main/Hardware/Actuators)
@@ -42,8 +41,7 @@ _A microcontroller with sensors & actuators_
 - Wires
 
 ### Tools
-- Your computer
-- Your brain :)
+- Your computer (Win/Mac/Linux)
 
 ### Skills
 - [ ] Programming a microcontroller
