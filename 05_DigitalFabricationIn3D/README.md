@@ -36,6 +36,7 @@ _3D-printed linear gear mechanism_
 ### Tools
 - CAD software, e.g. OpenSCAD or FreeCAD
 - Slicer software, e.g. PrusaSlicer
+- Your computer
 - 3D printer, e.g. Prusa MINI+
 
 ### Skills
