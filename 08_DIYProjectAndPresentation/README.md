@@ -27,7 +27,7 @@ _Presenting to peers_
 - Live demo
 - Link to docs
 - Lessons learnt
-- Critical debate
+- Critical reflection
 
 ### Materials
 - Materials used so far
