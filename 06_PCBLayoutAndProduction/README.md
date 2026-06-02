@@ -33,6 +33,7 @@ _A custom CO2 sensor breakout board_
 - ...
 
 ### Tools
+- Layout Software (KiCad, Fritzing, ...)
 - Scissors
 - ...
 
