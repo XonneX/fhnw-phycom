@@ -20,11 +20,15 @@ _A custom CO2 sensor breakout board_
 - [#MakeZurich Badge 2023](http://www.tamberg.org/makezurich/2023/MakeZurichBadge2023.pdf) slides, by @tamberg
 
 ### Basics
-- Create a layout
+- Placing componnents
+- Drawing conenctions
+- Preventing crossings
 - ...
 
 ### Advanced
-- Add a footprint
+- Creating a BOM
+- Sourcing parts
+- Adding a footprint
 - ...
 
 ### Materials
