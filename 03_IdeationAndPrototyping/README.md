@@ -14,7 +14,7 @@ _A kitchen timer prototype_
 - [Resources](#Resources)
 
 ### Motivation
-- [Idea generator](https://github.com/tamberg/idea) software, by @tamberg
+- [Plusea's Prototypes](https://www.flickr.com/photos/plusea/albums) photo albums, by Hannah Perner-Wilson
 
 ### Basics
 - Constraints
@@ -39,6 +39,7 @@ _A kitchen timer prototype_
 - ...
 
 ### Tools
+- [Idea generator](https://github.com/tamberg/idea) software, by @tamberg
 - Hot glue gun
 - Cutting mat
 - Cutter
@@ -57,5 +58,4 @@ _A kitchen timer prototype_
 
 ### Resources
 - [Make A Prototype with Embedded ML](http://www.tamberg.org/bowen/2024/MakeAPrototypeWithEmbeddedML.pdf) slides, by @tamberg
-- [Plusea's Prototypes](https://www.flickr.com/photos/plusea/albums) photo albums, by Hannah Perner-Wilson
 - [Taxonomy of non-conventional objects](https://www.flickr.com/photos/tamberg/10072620183), by Bruce Sterling
