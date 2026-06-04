@@ -82,7 +82,7 @@ Fri|Digital Fabrication in 3D|3D-printing
 #### Week 2
 Day|Input|Making
 :---|:---|:---
-Mon|PCB-Layout|Etching or Milling
+Mon|PCB-Layout|Production
 Tue|Documentation & Sharing|Exploring
 Wed|DIY-Project Kick-off|Working
 Thu|DIY-Project Inputs|Working
