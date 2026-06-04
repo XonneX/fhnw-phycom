@@ -14,7 +14,7 @@ _Laser-cut panel with arcade buttons_
 - [Resources](#Resources)
 
 ### Motivation
-- [Lab equipment](https://www.gaudi.ch/GaudiLabs/?page_id=328) designs, by GaudiLabs
+- [Generic lab equipment](https://www.gaudi.ch/GaudiLabs/?page_id=328) designs, by GaudiLabs
 - [Cardboard robot](https://cholinska.com/bilder/workshop_kartonrobo_6.jpg) design, by Cho Linska
 - [Button panel](https://www.thingiverse.com/thing:5933117) design, by @tamberg
 - [NICs map](https://github.com/tamberg/nics/tree/main) project, by @tamberg
