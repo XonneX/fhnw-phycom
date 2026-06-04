@@ -15,7 +15,7 @@ _A kitchen timer prototype_
 
 ### Motivation
 - [Plusea's Prototypes](https://www.flickr.com/photos/plusea/albums) photo albums, by Hannah Perner-Wilson
-
+- [Poem/1 clock](https://approach.studio/work/poem1) prototype, by Approach Studio
 ### Basics
 - Constraints
 - Enclosures
