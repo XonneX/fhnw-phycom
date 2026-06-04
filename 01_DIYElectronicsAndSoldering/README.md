@@ -62,9 +62,9 @@ _Soldering an electronic circuit, SGMK style_
 
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine, by Mitch Altman et al.
-- [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book, by Charles Platt
-- [Open Circuits](https://nostarch.com/open-circuits) book, by Windell Oskay & Eric Schlaepfer
 - [Circuit Bending](https://www.conceptlab.com/circuitbending/) zine, by Garnet Hertz
+- [Open Circuits](https://nostarch.com/open-circuits) book, by Windell Oskay & Eric Schlaepfer
+- [Make Electronics](https://archive.org/details/makeelectronicsl0000plat) book, by Charles Platt
 
 
 
