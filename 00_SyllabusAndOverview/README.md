@@ -95,6 +95,8 @@ Fri|DIY-Project Inputs|Presenting
 - Week 1, Fri, 12:00, free/open lunch.
 - Week 2, Fri, 16 - 18:00, grill party.
 
+[https://forms.cloud.microsoft/e/gDkt6tGKEf](Register here).
+
 ### Topics
 The course covers these topics.
 
