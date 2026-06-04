@@ -68,7 +68,7 @@
 
   # Location
 
-  - Input, usually at the classroom, Room 4.513
+  - Input, usually at the classroom, Room 4.515
   - Making, usually at the makerspace, Room 4.125
 
 +
