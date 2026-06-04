@@ -15,6 +15,7 @@ _3D-printed linear gear mechanism_
 
 ### Motivation
 - [Brushograph](https://wiki.sgmk-ssam.ch/wiki/Brushograph) plotter, by Dominik Mahnič, @dusjagr et. al
+- [Boxes](https://github.com/tamberg/boxes) parametric design, by @tamberg
 
 ### Basics
 - Designing simple parts
