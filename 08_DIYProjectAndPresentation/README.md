@@ -14,8 +14,8 @@ _Presenting to peers_
 - [Resources](#Resources)
 
 ### Motivation
-- DIY game controller, e.g. [DIY 3D tilt sensor](https://www.instructables.com/DIY-3D-Tilt-Sensor/) by @tamberg
 - DIY USB HID device, e.g. [DIY space mouse](https://www.youtube.com/watch?v=62xlzGs8LXA) by Salim Benbouziyane
+- DIY game controller, e.g. [DIY 3D tilt sensor](https://www.instructables.com/DIY-3D-Tilt-Sensor/) by @tamberg
 - [Homebrew NMOS transistor](https://www.youtube.com/watch?v=w_znRopGtbE) video, by Jeri Ellsworth
 
 ### Basics
