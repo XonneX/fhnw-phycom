@@ -1,7 +1,7 @@
 # Physical Computing
 
 ## DIY-Project & Presentation
-<img src="https://live.staticflickr.com/65535/54713917661_cd00d13861_z.jpg" width="540" alt="Presenting to peers"/><br/>
+<img src="https://live.staticflickr.com/65535/54713917661_cd00d13861_z.jpg" width="540" title="CC BY-SA 4.0 @tamberg" alt="Presenting to peers"/><br/>
 _Presenting to peers_
 
 ### Contents
