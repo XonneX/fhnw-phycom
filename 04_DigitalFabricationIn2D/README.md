@@ -1,7 +1,7 @@
 # Physical Computing
 
 ## Digital Fabrication in 2D
-<img src="https://live.staticflickr.com/65535/52764061807_3136e4c4b0_z.jpg" width="540" alt="Laser-cut panel with arcade buttons"/><br/>
+<img src="https://live.staticflickr.com/65535/52764061807_3136e4c4b0_z.jpg" width="540" title="CC BY-SA 4.0 @tamberg" alt="Laser-cut panel with arcade buttons"/><br/>
 _Laser-cut panel with arcade buttons_
 
 ### Contents
