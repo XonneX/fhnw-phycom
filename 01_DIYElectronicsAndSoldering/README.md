@@ -45,7 +45,8 @@ _Soldering an electronic circuit, SGMK style_
 - ICs (Transistors, H-bridge, ...)
 
 ![It's a lion!](../img/parts_lion.png)
-**_It's a lion!_**
+
+_It's a lion!_
 
 ### Challenge 
 Build a NAND oscillator and make some noise!
