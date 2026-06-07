@@ -56,17 +56,18 @@ _Soldering an electronic circuit, SGMK style_
 - Helping hands
 - Pliers
 - Multimeter
-- Oscilloscope
 
 ### Skills
+- [ ] Breadboarding
 - [ ] Soldering (through-hole)
-- [ ] Soldering SMD parts
 - [ ] Desoldering parts
 - [ ] Measuring V, A, Ω
-- [ ] Beeping circuits
+- [ ] Oscillator and sound circuits
 
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine, by Mitch Altman, Andie Nordgren & Jeff Keyzer
+- [Handmade Electronic Music: The Art of Hardware Hacking](https://www.nicolascollins.com/handmade.htm), Book by Nicolas Collins (see teams for .pdf)
+- [The sound of shadows, 2011](https://www.youtube.com/watch?v=Lan6iu3hyz8), Documentary on Peter Vogel
 - [Build Electronic Circuits](https://www.build-electronic-circuits.com) tutorials, by Øyvind Nydal Dahl
 - [Circuit Bending](https://www.conceptlab.com/circuitbending/) zine, by Garnet Hertz
 - [Circuit Classics](https://www.crowdsupply.com/star-simpson/circuit-classics) PCBs, by Star Simpson
