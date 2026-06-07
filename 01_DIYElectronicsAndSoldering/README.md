@@ -23,7 +23,8 @@ _Soldering an electronic circuit, SGMK style_
 - [Peepsy](https://www.flickr.com/photos/tamberg/52800892033) tool, by Michi Egger
 - (more about the peepsy next Monday)
 
-![alt text](image.png)
+[![Click on image to see more](image.png)](https://dusjagr.hotglue.me/)
+*Click on image to see more*
 
 ### Basics
 - Parts (LED, Switch, Resistor, Capacitor, Power source, Cables)
