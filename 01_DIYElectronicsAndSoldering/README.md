@@ -8,6 +8,7 @@ _Soldering an electronic circuit, SGMK style_
 - [Motivation](#Motivation)
 - [Basics](#Basics)
 - [Advanced](#Advanced)
+- [Challenge](#Challenge)
 - [Materials](#Materials)
 - [Tools](#Tools)
 - [Skills](#Skills)
@@ -23,7 +24,7 @@ _Soldering an electronic circuit, SGMK style_
 - [Peepsy](https://www.flickr.com/photos/tamberg/52800892033) tool, by Michi Egger
 - (more about the peepsy next Monday)
 
-[![Click on image to see more](image.png)](https://dusjagr.hotglue.me/)
+[![Screenshot hotglue](../img/screenshot_DIY-electronics_hotglue.png)](https://dusjagr.hotglue.me/)
 *Click on image to see more*
 
 ### Basics
@@ -32,6 +33,7 @@ _Soldering an electronic circuit, SGMK style_
 - Units (Volt, Ampere, Ohm, Ah, ...)
 - Symbols (...)
 - Circuits (LED switch, Voltage divider, ...)
+- Logic gates (AND, OR, NOT, NAND, ...)
 - Formulas (Ohm's law, U = R * I, P = U * I)
 
 ### Advanced
@@ -41,6 +43,22 @@ _Soldering an electronic circuit, SGMK style_
 - Motors (DC motor, Servo, ...)
 - Transistor (Switch low currents)
 - ICs (Transistors, H-bridge, ...)
+
+![It's a lion!](../img/parts_lion.png)
+*It's a lion!*
+
+### Challenge 
+Build a NAND oscillator and make some noise!
+
+Will be described on the black board during the class...
+
+### Skills
+- [ ] Reading schematics and understand symbols
+- [ ] Breadboarding
+- [ ] Soldering (through-hole)
+- [ ] Desoldering parts
+- [ ] Measuring V, A, Ω
+- [ ] Oscillator and sound circuits
 
 ### Materials
 - Solder mat
@@ -57,13 +75,6 @@ _Soldering an electronic circuit, SGMK style_
 - Helping hands
 - Pliers
 - Multimeter
-
-### Skills
-- [ ] Breadboarding
-- [ ] Soldering (through-hole)
-- [ ] Desoldering parts
-- [ ] Measuring V, A, Ω
-- [ ] Oscillator and sound circuits
 
 ### Resources
 - [Soldering is Easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) zine, by Mitch Altman, Andie Nordgren & Jeff Keyzer
