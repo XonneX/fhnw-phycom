@@ -15,7 +15,7 @@ _Neatly arranged parts, to be assembled_
 
 ### Motivation
 - [GaudiLabs projects](https://www.gaudi.ch/GaudiLabs/?page_id=19) on their blog
-- [Hackteria.org projects](https://www.hackteria.org/category/projects/) on their blog
+- [Hackteria projects](https://www.hackteria.org/wiki/Collection_of_DIY_Biology,_Open_Source_Art_Projects) on their wiki
 - [Kobakant's projects](https://www.kobakant.at/DIY/) on their blog
 - [@tamberg's projects](https://www.instructables.com/member/tamberg/) on Instructables
 
