@@ -36,6 +36,10 @@ _Soldering an electronic circuit, SGMK style_
 - Logic gates (AND, OR, NOT, NAND, ...)
 - Formulas (Ohm's law, U = R * I, P = U * I)
 
+![It's a lion!](../img/parts_lion.png)
+
+_It's a lion!_
+
 ### Advanced
 - Potentiometer (Variable resistance)
 - Inductance (Current vs. magnetic field)
@@ -44,9 +48,13 @@ _Soldering an electronic circuit, SGMK style_
 - Transistor (Switch low currents)
 - ICs (Transistors, H-bridge, ...)
 
-![It's a lion!](../img/parts_lion.png)
+![alt text](../img/electric_symbols_hand.png)
 
-_It's a lion!_
+### Logic Gates and 4093 IC
+
+![Logic Gates](../img/LogicGates_symbols.png)
+
+![4093 Schema](../img/4093_schema.png)
 
 ### Challenge 
 Build a NAND oscillator and make some noise!
@@ -55,12 +63,18 @@ Will be described on the black board during the class...
 
 Some badly documented stuff is here: [J'aime wiki](https://www.hackteria.org/wiki/J%27aime_4093_Nandsynth#Vive-la-Restistance)
 
+### Simple 4-NAND oscillator
+
+![4093 simple](../img/4093_simple_oscillator.png)
+
+![4093 micronoise](../img/4093_micronoise.png)
+
 ### Skills
 - [ ] Reading schematics and understand symbols
 - [ ] Breadboarding
 - [ ] Soldering (through-hole)
 - [ ] Desoldering parts
-- [ ] Measuring V, A, Ω
+- [ ] Measuring V, A, Ω (will do on 2nd Day)
 - [ ] Oscillator and sound circuits
 
 ### Materials
