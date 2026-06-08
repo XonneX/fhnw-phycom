@@ -38,7 +38,9 @@ _Soldering an electronic circuit, SGMK style_
 
 ![It's a lion!](../img/parts_lion.png)
 
-_It's a lion!_
+_It's a lion!_ 
+
+modified from https://makezine.com/article/craft/electronics-levity/
 
 ### Advanced
 - Potentiometer (Variable resistance)
@@ -50,11 +52,17 @@ _It's a lion!_
 
 ![alt text](../img/electric_symbols_hand.png)
 
+from https://www.ic-components.com/blog/100-circuit-symbols-and-names-to-help-you-with-your-next-project.jsp
+
 ### Logic Gates and 4093 IC
 
 ![Logic Gates](../img/LogicGates_symbols.png)
 
+from https://www.allaboutcircuits.com/textbook/reference/chpt-9/integrated-circuits/
+
 ![4093 Schema](../img/4093_schema.png)
+
+from https://docs.cirkitdesigner.com/component/0a253d56-19f9-4640-a31c-6bfbd8d9908b/4093
 
 ### Challenge 
 - Build a NAND oscillator and make some noise!
