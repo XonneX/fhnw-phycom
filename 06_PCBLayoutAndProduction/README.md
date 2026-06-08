@@ -20,10 +20,6 @@ _A custom temperature sensor breakout board drawb by participants in Hammamatsu,
 - [Amazing creative PCB designs](https://darcyneal.com) by Darcy Neal
 - [#MakeZurich Badge 2023](http://www.tamberg.org/makezurich/2023/MakeZurichBadge2023.pdf) slides, by @tamberg
 
-### DIY-CAD aka GAPS | ɖǟռɢɖʊȶ ₣ⱤØ₥ ⱧɆⱠⱠ | gambar pisibi-mu sendiri - Creative PCB-design Workshop
-
-https://www.hackteria.org/wiki/Diy-CAD
-
 ### Basics
 - Placing components
 - Drawing conenctions
@@ -42,6 +38,7 @@ https://www.hackteria.org/wiki/Diy-CAD
 - ...
 
 ### Tools
+- https://www.hackteria.org/wiki/Diy-CAD
 - Layout Software, e.g. KiCad or Fritzing
 - Your computer
 - Scissors

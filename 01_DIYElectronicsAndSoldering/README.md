@@ -57,11 +57,9 @@ _It's a lion!_
 ![4093 Schema](../img/4093_schema.png)
 
 ### Challenge 
-Build a NAND oscillator and make some noise!
-
-Will be described on the black board during the class...
-
-Some badly documented stuff is here: [J'aime wiki](https://www.hackteria.org/wiki/J%27aime_4093_Nandsynth#Vive-la-Restistance)
+- Build a NAND oscillator and make some noise!
+- Will be described on the black board during class...
+- Some badly documented stuff is in the [J'aime wiki](https://www.hackteria.org/wiki/J%27aime_4093_Nandsynth#Vive-la-Restistance)
 
 ### Simple 4-NAND oscillator
 
