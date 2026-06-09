@@ -36,7 +36,7 @@
   - Preferences > Additional Boards Manager URL
     https://adafruit.github.io/arduino-board-index/
     package_adafruit_index.json
-  - Tools > Board > Boards Manager... > 
+  - Tools > Board > Boards Manager > 
     Adafruit SAMD Boards
   - Tools > Board > Adafruit M4 Feather Express
   - Tools > Port > ...
@@ -71,8 +71,7 @@
 
   # Blinking an LED
 
-  - Arduino IDE > Examples >
-    Basics > Blink
+  - File > Examples > Basics > Blink
   - Search "Arduino LED circuit"
   - Build circuit on breadboard,
     use 1k resistor
@@ -96,7 +95,7 @@
 
   # Monitoring output
 
-  - Arduino > Tools > Serial Monitor
+  - Tools > Serial Monitor
   - Plug in the M4 boad via USB
   - Select the baud rate 115200
   - Or whatever is used in code
@@ -105,21 +104,21 @@
 
   # Reading a button
 
-  - Arduino IDE > Examples >
-    Basics > DigitalReadSerial
+  - File > Examples > Basics > 
+    DigitalReadSerial
   - Search "Arduino Button circuit"
-  - Build circuit on breadboard,
-    use 10k resistor
-  - Use on-board USB power
+  - Build circuit on breadboard
+  - Use 10k resistor as pull-down
+  - Or no resistor, INPUT_PULLUP
   - Adapt the pin number
 
 +
 
-  # Making a dial
+  # Reading an LDR
 
-  - Arduino IDE > Examples >
-    Basics > AnalogReadSerial
-  - Search "Arduino Poti circuit"
+  - File > Examples > Basics > 
+    AnalogReadSerial
+  - Search "Arduino LDR circuit"
   - Build circuit on breadboard,
     use 10k resistor
   - Adapt the pin number
