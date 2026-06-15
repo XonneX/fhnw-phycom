@@ -17,7 +17,7 @@ _Neatly arranged parts, to be assembled_
 - [GaudiLabs projects](https://www.gaudi.ch/GaudiLabs/?page_id=19) on their blog
 - [Hackteria projects](https://www.hackteria.org/wiki/Collection_of_DIY_Biology,_Open_Source_Art_Projects) on their wiki
 - [Kobakant's projects](https://www.kobakant.at/DIY/) on their blog
-- [OpenFlexure microscope](https://openflexure.org/projects/microscope/) docs on their website
+- [OpenFlexure microscope](https://openflexure.org/projects/microscope/) on their website
 - [@tamberg's projects](https://www.instructables.com/member/tamberg/) on Instructables
 
 ### Basics
