@@ -41,6 +41,7 @@ _Neatly arranged parts, to be assembled_
 ### Tools
 - Your computer
 - Your smartphone
+- https://zine-creator.com
 
 ### Skills
 - [ ] Documenting your work
