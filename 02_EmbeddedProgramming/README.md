@@ -53,6 +53,7 @@ _A microcontroller with sensors & actuators_
 - [ ] Debugging issues/errors
 
 ### Resources
+- [Phycom02EmbeddedProgramming.pdf](Phycom02EmbeddedProgramming.pdf) (or [.txt](Phycom02EmbeddedProgramming.txt))
 - [Microcontrollers, Sensors & Actuators](https://github.com/tamberg/fhnw-iot/tree/master/02) with Arduino, tutorial by @tamberg
 - [Getting Started](https://github.com/fhnw-imvs/fhnw-idb/tree/master/introduction/CircuitPython) and [Data Acquisition](https://github.com/fhnw-imvs/fhnw-idb/tree/master/data-acquisition) with CircuitPython, tutorial by @tamberg & Jürg Luthiger
 - [Better Serial Plotter](https://github.com/nathandunk/BetterSerialPlotter), a drop-in replacement for the arduino serial plotter.
